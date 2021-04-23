@@ -31,6 +31,7 @@ I saw it can be done by react equevalent framework and so I went with Vue.js. Th
 - Time frame. Base on previous experience Vue.js is genuinely quicker to develop.
 - Project size & complexity. Base on experience Vue.js is a better fit for smaller & less complex projects. Choosing react for small & simple project like this would be overkill.
 - Personal preference. Vue.js has an excellent programming style and pattern.
+
 Therefore, I conclude that Vue.js was a better fit than React for this project.
 
 
