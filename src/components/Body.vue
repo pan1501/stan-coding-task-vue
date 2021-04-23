@@ -3,6 +3,21 @@
   padding-top: 150px;
   min-height: 570px;
 }
+@media (max-width: 768px) {
+  .body{
+    min-height: unset;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+  .body{
+    min-height: 655px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1024px) {
+  .body{
+    min-height: 1000px;
+  }
+}
 body .unknown {
   padding: 0px 10%;
 }
