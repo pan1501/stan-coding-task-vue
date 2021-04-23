@@ -8,6 +8,7 @@ export const state = {
   programType: [],
 
   currentSection: "home"
+  //default section
 }
 
 export default state

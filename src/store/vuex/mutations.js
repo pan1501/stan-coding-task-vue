@@ -8,6 +8,7 @@ export const mutations = {
     state.dataReady = true
   },
   SET_CURRENTSECTION: (state, currentSection) =>{
+    // update current section
     state.currentSection = currentSection;
   }
 }
